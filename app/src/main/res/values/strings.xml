@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PathView</string>
+
+    <string name="btn_attr_map">画属性图</string>
+    <string name="btn_pie_map">画饼状图</string>
+    <string name="btn_tai_chi">画太极</string>
+    <string name="btn_finger_map">手指画图</string>
+</resources>
